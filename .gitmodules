@@ -1,0 +1,8 @@
+[submodule "clips"]
+	path = clips
+	url = https://github.com/douglasdotc/Clips.git
+	branch = release/springboot
+[submodule "clip-backend"]
+	path = clip-backend
+	url = https://github.com/douglasdotc/clip-backend.git
+	branch = release/v1
