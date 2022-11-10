@@ -8,7 +8,9 @@ A video sharing platform with Angular frontend and Spring Boot backend.
 <a name="installation-guide"></a>
 ## **Installation Guide (Windows/Mac)**
 
-Please visit the READMEs at [clips](https://github.com/douglasdotc/Clips/blob/release/firebase/README.md) and [clip-backend](https://github.com/douglasdotc/clip-backend/blob/release/v1/README.md) to install required softwares.
+After cloning the repository, open a terminal and run `git submodule update --init --recursive` to pull the frontend and backend submodules.
+After that please visit the READMEs at [clips](https://github.com/douglasdotc/Clips/blob/release/firebase/README.md) and [clip-backend](https://github.com/douglasdotc/clip-backend/blob/release/v1/README.md) to install required softwares.
+
 
 <a name="run"></a>
 ## **Running the Application**
